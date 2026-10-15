@@ -31,34 +31,6 @@ Follow these steps to run the project locally.
 - Node.js
 - npm
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <YOUR-REPOSITORY-URL>
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd <YOUR-PROJECT-FOLDER>
-   ```
-
-3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-5. Open the local URL provided by your development server in your browser.
-
 ## Project Goals
 
 - Build a modern e-commerce user interface.

@@ -1,0 +1,20 @@
+/* Import Tailwind */
+@import "tailwindcss";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: peyda;
+}
+
+@font-face {
+    font-family: peyda;
+    src: url("./assets/fonts/PEYDA.TTF");
+}
+
+/* Body Styles */
+
+body {
+    background-color: #fff;
+}

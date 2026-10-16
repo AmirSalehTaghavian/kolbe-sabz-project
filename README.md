@@ -1,16 +1,50 @@
-# React + Vite
+# Kolbe-Sabz-Ecommerce-Website
+Kolbe Sabz — A modern home appliances e-commerce website built with React and Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+# Kolbe Sabz | Home Appliances E-Commerce
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+A modern e-commerce website for home appliances, built with React and Tailwind CSS.
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Kolbe Sabz is a home appliances e-commerce website designed to provide a clean, user-friendly shopping experience. The project focuses on modern web design, reusable React components, and responsive styling with Tailwind CSS.
+
+## Tech Stack
+
+- React
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+- Additional libraries and tools used in the project
+
+## Getting Started
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+- Node.js
+- npm
+
+## Project Goals
+
+- Build a modern e-commerce user interface.
+- Create a responsive shopping experience.
+- Practice component-based development with React.
+- Use Tailwind CSS for efficient and maintainable styling.
+- Improve front-end development and UI implementation skills.
+
+## Author
+
+**Amir Saleh Taghavian (AmirSTZ)**
+
+GitHub: [@AmirSalehTaghavian](https://github.com/AmirSalehTaghavian)
+
+## License
+
+No license has been specified yet. Please add a `LICENSE` file if you intend to publish the project under an open-source license.
